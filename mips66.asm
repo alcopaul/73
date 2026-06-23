@@ -1,6 +1,6 @@
 #
 # Rachel.Hannah, a MIPS64le Quine by alCoPaUL, HAsAsIN [NaCl],
-# beth GviLLErMo [GIMO], Zelotes ni Isa [Zni], Brigada Ocho [b8]
+# beth GviLLErMo [GIMO], Zelotes ni Isa [ZnI], Brigada Ocho [b8]
 #
 # May 20, 2026, NYC
 #
@@ -36,7 +36,7 @@ jal exit
 msg:
 .asciiz "#
 # Rachel.Hannah, a MIPS64le Quine by alCoPaUL, HAsAsIN [NaCl],
-# beth GviLLErMo [GIMO], Zelotes ni Isa [Zni], Brigada Ocho [b8]
+# beth GviLLErMo [GIMO], Zelotes ni Isa [ZnI], Brigada Ocho [b8]
 #
 # May 20, 2026, NYC
 #
